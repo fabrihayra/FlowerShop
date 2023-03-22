@@ -10,7 +10,10 @@ Welcome to the prototype of our e-commerce flower shop website. This website all
 * Screenshots
 
 ## Here are some screenshots of our website:
-![Screenshoot of HomePage](
+![Screenshot of homepage](/one.jpg)
+![Screenshot of homepage](./two.jpg)
+![Screenshot of homepage](./three.jpg)
+![Screenshot of homepage](./four.jpg)
 
 ## Technologies Used
 * HTML
